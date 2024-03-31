@@ -1,0 +1,6 @@
+[submodule "external/SuperGluePretrainedNetwork"]
+	path = external/SuperGluePretrainedNetwork
+	url = git@github.com:tompritch30/SuperGluePretrainedNetwork.git
+[submodule "external/SuperPoint"]
+	path = external/SuperPoint
+	url = git@github.com:tompritch30/SuperPoint.git
