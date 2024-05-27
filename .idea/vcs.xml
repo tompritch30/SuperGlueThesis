@@ -2,7 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/LightGlue" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/external/SuperGluePretrainedNetwork" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/external/SuperPoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/glue-factory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ignore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ignorepoint" vcs="Git" />
   </component>
 </project>

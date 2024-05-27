@@ -1,0 +1,29 @@
+git branch
+git checkout dev
+git branch "name"
+git submodule add "github url"
+
+conda create --name myenv
+conda activate myenv
+conda deactivate
+conda env list OR conda info --envs
+conda install scipy
+
+C:\Users\thoma\anaconda3
+
+conda activate myen
+conda env export > environment.yml
+conda env create -f environment.yml
+conda update conda
+
+anaconda-navigator
+
+# current packages
+conda list
+
+conda search package-name
+
+
+
+
+
