@@ -4,3 +4,9 @@
 [submodule "external/SuperPoint"]
 	path = external/SuperPoint
 	url = git@github.com:tompritch30/SuperPoint.git
+[submodule "external/LightGlue"]
+	path = external/LightGlue
+	url = https://github.com/tompritch30/LightGlue
+[submodule "external/glue-factory"]
+	path = external/glue-factory
+	url = https://github.com/tompritch30/glue-factory
