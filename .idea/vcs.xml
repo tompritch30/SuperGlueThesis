@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/Ijaz-Forest-SLAM-Train" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/external/LightGlue" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/external/SuperGluePretrainedNetwork" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/external/SuperPoint" vcs="Git" />
