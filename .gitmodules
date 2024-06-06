@@ -13,3 +13,6 @@
 [submodule "external/PercepTreeV1"]
 	path = external/PercepTreeV1
 	url = git@github.com:tompritch30/PercepTreeV1.git
+[submodule "external/tartanair_tools"]
+	path = external/tartanair_tools
+	url = git@github.com:tompritch30/tartanair_tools.git
