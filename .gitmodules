@@ -16,3 +16,6 @@
 [submodule "external/tartanair_tools"]
 	path = external/tartanair_tools
 	url = git@github.com:tompritch30/tartanair_tools.git
+[submodule "external/MegaDepth"]
+	path = external/MegaDepth
+	url = git@github.com:tompritch30/MegaDepth.git
